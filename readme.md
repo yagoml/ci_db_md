@@ -5,8 +5,8 @@ Serve como uma camada de acesso fácil, rápido e seguro aos dados do BD.
 Autor: _YagoML_
 
 ### Dependências
-	*Code Igniter 3*: https://codeigniter.com/
-	*Composer*: https://getcomposer.org/
+"Code Igniter 3":https://codeigniter.com/
+"Composer":https://getcomposer.org/
 
 - Colar a pasta application na pasta do app
 - Configurar o composer, colocando na config _composer.json_ com a config do arquivo _composer_autoload.json_
