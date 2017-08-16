@@ -1,0 +1,7 @@
+"autoload": {
+	"psr-4": {
+		"Models\\": "application/models/Models/",
+		"DAOs\\": "application/models/DAOs/",
+		"System\\": "application/models/System/"
+	}
+}
