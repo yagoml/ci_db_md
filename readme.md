@@ -9,7 +9,7 @@ Autor: _YagoML_
 	*Composer*: https://getcomposer.org/
 
 - Colar a pasta application na pasta do app
-- Configurar o composer, colocando na config _composer.json_ com a config do arquivo _composer_autoload.json_
+- Configurar o composer, colocando na config _composer.json_ a config do arquivo _composer_autoload.json_
 
 ### Exemplo de uso
 ```php
